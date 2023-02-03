@@ -1,4 +1,4 @@
-# Ramen - About Egg
+# Ramyoen - About Egg
 
 ## 컵라면에 계란 넣어먹기
 
